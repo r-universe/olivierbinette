@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "assert"]
+	path = assert
+	url = https://github.com/olivierbinette/assert
+	shallow = true
+	registered = true
+[submodule "cache"]
+	path = cache
+	url = https://github.com/olivierbinette/cache
+	shallow = true
+	registered = true
