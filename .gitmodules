@@ -13,3 +13,8 @@
 	url = https://github.com/olivierbinette/cache
 	shallow = true
 	registered = true
+[submodule "dga"]
+	path = dga
+	url = https://github.com/olivierbinette/dga
+	shallow = true
+	registered = true

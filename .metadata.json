@@ -6,5 +6,9 @@
   {
     "package": "cache",
     "oncran": true
+  },
+  {
+    "package": "dga",
+    "oncran": true
   }
 ]
